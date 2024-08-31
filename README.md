@@ -8,7 +8,7 @@ The project is split into two parts:
 
 
 ### S3
-Create an AWS S3 bucket. The S3 bucket is used to store images that are displayed in Udagram.
+Create an AWS S3 bucket. The S3 bucket is used to store images that are displayed in the app.
 
 Set the config values for environment variables prefixed with `AWS_` in `set_env.sh`.
 
